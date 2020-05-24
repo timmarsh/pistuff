@@ -22,3 +22,6 @@ git clone https://github.com/editorconfig/editorconfig-vim
 cd ~/.vim/bundle
 git clone git://github.com/tpope/vim-fugitive.git
 vim -u NONE -c "helptags vim-fugitive/doc" -c q
+
+cd ~/.vim/bundle
+git clone https://github.com/prettier/vim-prettier
